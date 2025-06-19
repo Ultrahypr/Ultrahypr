@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ultrahypr
 - 👀 I’m interested in AI development
-- 🌱 I’m currently a leading blockchain developer
+- 🌱 I’m currently a minecraft bot developer
 - 💞️ I’m looking to collaborate on projects that are innovative for human well-being using blockchain
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
